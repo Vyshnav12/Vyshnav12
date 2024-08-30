@@ -1,3 +1,8 @@
+<div style="width: 100%; overflow: hidden;">
+    <img src="./00092.jpg" style="width: 100%; height: auto; display: block;" alt="Banner Image">
+</div>
+<br/>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Mynerve&size=35&pause=1000&color=F71A4D&background=3C48FF00&center=true&width=500&height=70&lines=Hi+There!%F0%9F%91%8B+;I'm+Vyshnav+Varma!";" />
 </h1>
