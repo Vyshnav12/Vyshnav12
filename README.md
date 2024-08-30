@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vyshnav+Varma!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=35&pause=1000&color=F71A4D&background=3C48FF00&center=true&width=500&height=70&lines=Hi+There!%F0%9F%91%8B+;I'm+Vyshnav+Varma!";" />
 </h1>
 
 <h3 align="center">A passionate CS Graduate</h3>
