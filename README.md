@@ -1,5 +1,5 @@
 <div style="width: 100%; overflow: hidden;">
-    <img src="./00092.jpg" style="width: 100%; height: auto; display: block;" alt="Banner Image">
+    <img src="./banner.png" style="width: 100%; height: auto; display: block;" alt="Banner Image">
 </div>
 <br/>
 
@@ -17,7 +17,7 @@
  
  🌱 I’m currently learning **Docker, Tensorflow and Julia**
 
- ⚔️ My Favorite book is **The Magician by Raymond E. Feist**
+ 📜 My favorite book is **The Magician by Raymond E. Feist**
 
  💽 My current favorite song is **[FAKEit - Sawano Hiroyuki](https://youtu.be/a_iU8YeH944?si=nLcWk144sXV1FMtC)**
 
