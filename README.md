@@ -1,5 +1,5 @@
 <div style="width: 100%; overflow: hidden;">
-    <img src="./banner.png" style="width: 100%; height: auto; display: block;" alt="Banner Image">
+    <img src="./banner.jpg" style="width: 100%; height: auto; display: block;" alt="Banner Image">
 </div>
 <br/>
 
