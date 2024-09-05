@@ -24,6 +24,9 @@
  </div>
  
 <div align="center"> 
+  <p align="center"> 
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=12185374060&count=10&unique=true&width=400" alt="Spotify recently played"/>
+  </p>
   <a href="mailto:vyshnavvarma12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
