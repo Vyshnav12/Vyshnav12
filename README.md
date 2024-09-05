@@ -17,7 +17,7 @@
  
  🌱 I’m currently learning **Docker and Kubernetes**
 
- 📜 My favorite book is **_Name of the Wind_** by **_Patrick Rothfuss_** and I'm currently reading **[_Lord of Mysteries_](https://www.webnovel.com/book/lord-of-mysteries_11022733006234505)** by **_CuttleFish that Loves Diving_**
+ 📜 My favorite book is **_Name of the Wind_** by **_Patrick Rothfuss_** and I'm currently reading **[_Lord of Mysteries_](https://www.webnovel.com/book/lord-of-mysteries_11022733006234505)**
 
  💽 My current favorite song is **[Come Alive - SānZ, HOYO-MiX](https://open.spotify.com/track/0RtYfzwkgj0sOBuZc3NmSK?si=8a545957551f4509)**
 
