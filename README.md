@@ -13,19 +13,19 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **building a diffusion model**
+ 🔭 I’m currently working on **a Pokémon API Data Engineering Project**
  
- 🌱 I’m currently learning **Docker, Tensorflow and Julia**
+ 🌱 I’m currently learning **Docker and Kubernetes**
 
- 📜 My favorite book is **The Magician by Raymond E. Feist**
+ 📜 My favorite book is **_Name of the Wind_** by **_Patrick Rothfuss_** and I'm currently reading **[_Lord of Mysteries_](https://www.webnovel.com/book/lord-of-mysteries_11022733006234505)** by **_CuttleFish that Loves Diving_**
 
- 💽 My current favorite song is **[FAKEit - Sawano Hiroyuki](https://youtu.be/a_iU8YeH944?si=nLcWk144sXV1FMtC)**
+ 💽 My current favorite song is **[Come Alive - SānZ, HOYO-MiX](https://open.spotify.com/track/0RtYfzwkgj0sOBuZc3NmSK?si=8a545957551f4509)**
 
  </div>
  
 <div align="center"> 
   <p align="center"> 
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=12185374060&count=10&unique=true&width=400" alt="Spotify recently played"/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=12185374060" alt="Spotify recently played"/>
   </p>
   <a href="mailto:vyshnavvarma12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
