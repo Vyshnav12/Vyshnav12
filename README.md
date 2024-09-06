@@ -36,6 +36,9 @@
   <a href="https://vyshnav12.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-F08080?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  <a href="https://www.goodreads.com/user/show/88339827-vyshnav" target="_blank">
+     <img src="https://img.shields.io/badge/Goodreads-F4D5A1?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
  <hr/>
