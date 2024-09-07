@@ -13,7 +13,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Pokémon API Data Engineering Project**
+ 🔭 I’m currently working on **a Steam API Data Engineering Project**
  
  🌱 I’m currently learning **Docker and Kubernetes**
 
