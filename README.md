@@ -19,7 +19,7 @@
 
  📜 My favorite book is **_Name of the Wind_** by **_Patrick Rothfuss_** and I'm currently reading **[_Lord of Mysteries_](https://www.webnovel.com/book/lord-of-mysteries_11022733006234505)**
 
- 💽 My current favorite song is **[Grow Apart - Mindme](https://open.spotify.com/track/0QuOWQs758uwv6PTrqssR6)**
+ 💽 My current favorite song is **[Polygon - Ben Elson](https://open.spotify.com/track/3xZkgV42FFflhJKX9Ek8CW)**
 
  </div>
  
