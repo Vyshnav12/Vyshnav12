@@ -1,17 +1,18 @@
 <div style="width: 100%; overflow: hidden;">
     <img src="./assets/banner.png" style="width: 100%; height: auto; display: block;" alt="Banner Image">
 </div>
+<br/>
 <hr/>
 
 <div align="center">
-  <img src="./assets/working.gif" style="width: 50%;" alt="Hackerman" />
+  <img src="./assets/working.gif" style="width: 60%;" alt="Hackerman" />
 </div>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a Steam API Data Engineering Project**
+ 🔭 I’m currently working on **[Steam API Data Engineering Project](https://github.com/Vyshnav12/SteamDataPipeline)**
  
  🌱 I’m currently learning **Docker and Kubernetes**
 
