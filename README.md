@@ -4,8 +4,10 @@
 <br/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&duration=3000&pause=1000&color=DB47F7FF&width=435&lines=Hi%2C+I'm+Vyshnav+Varma!";" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&duration=3000&pause=1000&color=DB47F7FF&width=375&lines=Hi%2C+I'm+Vyshnav+Varma!" style="max-width: 100%; height: auto;" />
 </h1>
+
+
 
 <h3 align="center">A passionate CS Graduate</h3>
 
@@ -41,7 +43,7 @@
   </a>
 </div>
 
- <hr/>
+<br/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
