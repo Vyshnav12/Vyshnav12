@@ -1,7 +1,6 @@
 <div style="width: 100%; overflow: hidden;">
     <img src="./assets/banner.png" style="width: 100%; height: auto; display: block;" alt="Banner Image">
 </div>
-<br/>
 <hr/>
 
 <div align="center">
