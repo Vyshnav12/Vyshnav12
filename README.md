@@ -5,7 +5,7 @@
 <hr/>
 
 <div align="center">
-  <img src="./assets/working.gif" style="width: 10%;" alt="Hackerman" />
+  <img src="./assets/working.gif" style="width: 80%;" alt="Hackerman" />
 </div>
 
 <br/>
