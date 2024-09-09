@@ -1,15 +1,12 @@
 <div style="width: 100%; overflow: hidden;">
-    <img src="./banner.jpeg" style="width: 100%; height: auto; display: block;" alt="Banner Image">
+    <img src="./assets/banner.png" style="width: 100%; height: auto; display: block;" alt="Banner Image">
 </div>
 <br/>
+<hr/>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&duration=3000&pause=1000&color=DB47F7FF&width=375&lines=Hi%2C+I'm+Vyshnav+Varma!" style="max-width: 100%; height: auto;" />
-</h1>
-
-
-
-<h3 align="center">A passionate CS Graduate</h3>
+<div align="center">
+  <img src="./assets/working.gif" style="width: 10%;" alt="Hackerman" />
+</div>
 
 <br/>
 
@@ -19,7 +16,7 @@
  
  🌱 I’m currently learning **Docker and Kubernetes**
 
- 📜 My favorite book is **_Name of the Wind_** by **_Patrick Rothfuss_** and I'm currently reading **[_Lord of Mysteries_](https://www.webnovel.com/book/lord-of-mysteries_11022733006234505)**
+ 📜 My favorite book is **[Name of the Wind](https://www.goodreads.com/book/show/34347493-the-name-of-the-wind)** and I'm currently reading **[Lord of Mysteries](https://www.webnovel.com/book/lord-of-mysteries_11022733006234505)**
 
  💽 My current favorite song is **[Polygon - Ben Elson](https://open.spotify.com/track/3xZkgV42FFflhJKX9Ek8CW)**
 
