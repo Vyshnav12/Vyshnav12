@@ -14,7 +14,7 @@
  
  🔭 I’m currently working on **[Steam API Data Engineering Project](https://github.com/Vyshnav12/SteamDataPipeline)**
  
- 🌱 I’m currently learning **Docker and Kubernetes**
+ 🌱 I’m currently learning **Rust & Kubernetes**
 
  📜 My favorite book is **[Name of the Wind](https://www.goodreads.com/book/show/34347493-the-name-of-the-wind)** and I'm currently reading **[Lord of Mysteries](https://www.webnovel.com/book/lord-of-mysteries_11022733006234505)**
 
