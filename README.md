@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **Kubernetes & RAGs for LLMs**
 
- 📜 My favorite book is **[Name of the Wind](https://www.goodreads.com/book/show/34347493-the-name-of-the-wind)** and I'm currently reading **[Lord of Mysteries](https://www.webnovel.com/book/lord-of-mysteries_11022733006234505)**
+ 📜 My favorite book is **[Name of the Wind](https://www.goodreads.com/book/show/34347493-the-name-of-the-wind)** and I'm currently reading **[Reverend Insanity](https://www.webnovel.com/book/reverend-insanity_7996858406002505)**
 
  💽 My current favorite song is **[PARANOIA - HEARTSTEEL](https://open.spotify.com/track/29WxJqIfDRMo9isV07kbJP)**
 
