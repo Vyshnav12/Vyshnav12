@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 My latest project is **[Steam API Data Engineering Project](https://github.com/Vyshnav12/SteamDataPipeline)**
+ 🔭 I'm currently working on a **Text based Adventure Game using Langchain**
  
  🌱 I’m currently learning **Kubernetes & RAGs for LLMs**
 
