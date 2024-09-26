@@ -2,13 +2,6 @@
     <img src="./assets/banner.png" style="width: 100%; height: auto; display: block;" alt="Banner Image">
 </div>
 <br/>
-<hr/>
-
-<div align="center">
-  <img src="./assets/hanabi.gif" style="width: 60%;" alt="Hackerman" />
-</div>
-
-<br/>
 
 <div align="center">
  
