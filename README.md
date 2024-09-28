@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I'm currently working on a **Text based Adventure Game using Langchain**
+ 🔭 I'm currently working on a **2D Platformer using Godot**
  
- 🌱 I’m currently learning **Kubernetes & RAGs for LLMs**
+ 🌱 I’m currently learning **C# & RAGs for LLMs**
 
  📜 My favorite book is **[Name of the Wind](https://www.goodreads.com/book/show/34347493-the-name-of-the-wind)** and I'm currently reading **[Reverend Insanity](https://www.webnovel.com/book/reverend-insanity_7996858406002505)**
 
