@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **C# & RAGs for LLMs**
 
- 📜 My favorite book is **[Name of the Wind](https://www.goodreads.com/book/show/34347493-the-name-of-the-wind)** and I'm currently reading **[Reverend Insanity](https://www.webnovel.com/book/reverend-insanity_7996858406002505)**
+ 📜 My favorite book is **[Name of the Wind](https://www.goodreads.com/book/show/34347493-the-name-of-the-wind)** and I'm currently reading **[The Will of the Many](https://www.goodreads.com/book/show/58416952-the-will-of-the-many)**
 
  💽 My current favorite song is **[PARANOIA - HEARTSTEEL](https://open.spotify.com/track/29WxJqIfDRMo9isV07kbJP)**
 
