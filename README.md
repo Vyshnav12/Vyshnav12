@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I'm currently working on a **2D Platformer using Godot**
+ 🔭 I'm currently working on a **Creating a Torrent Client using Python**
  
  🌱 I’m currently learning **C# & RAGs for LLMs**
 
