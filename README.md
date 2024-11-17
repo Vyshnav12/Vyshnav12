@@ -16,7 +16,7 @@
 
  📜 My favorite book is **[Name of the Wind](https://www.goodreads.com/book/show/34347493-the-name-of-the-wind)** and I'm currently reading **[The Perfect Run](https://www.goodreads.com/book/show/57065516-the-perfect-run)**
 
- 💽 My current favorite song is **[Neeyam Thanalinu (Duet) - Vijay Yesudas](https://open.spotify.com/track/2hfi8KLZ5wvw3veGpVOddl)**
+ 💽 My current favorite song is **[library - Boone](https://open.spotify.com/track/6mz3QCVaJ2RAKqLJiokShY)**
 
  </div>
  
