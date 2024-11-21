@@ -16,7 +16,7 @@
 
  📜 My favorite book is **[Name of the Wind](https://www.goodreads.com/book/show/34347493-the-name-of-the-wind)** and I'm currently reading **[The Perfect Run](https://www.goodreads.com/book/show/57065516-the-perfect-run)**
 
- 💽 My current favorite song is **[library - Boone](https://open.spotify.com/track/6mz3QCVaJ2RAKqLJiokShY)**
+ 💽 My current favorite song is **[I CAN'T STOP ME - TWICE](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn)**
 
  </div>
  
