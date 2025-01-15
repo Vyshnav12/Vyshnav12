@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I'm currently working on a **Creating a Torrent Client using Python**
+ 🔭 I'm currently working on a **Splendor Board Game Rework**
  
- 🌱 I’m currently learning **C# & RAGs for LLMs**
+ 🌱 I’m currently learning **Mathematical Solvers & Kubernetes**
 
  📜 My favorite book is **[Name of the Wind](https://www.goodreads.com/book/show/34347493-the-name-of-the-wind)** and I'm currently reading **[The Perfect Run](https://www.goodreads.com/book/show/57065516-the-perfect-run)**
 
