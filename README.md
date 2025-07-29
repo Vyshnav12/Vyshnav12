@@ -12,7 +12,7 @@
  
  🔭 I'm currently working on a **Splendor Board Game Rework**
  
- 🌱 I’m currently learning **Mathematical Solvers & Kubernetes**
+ 🌱 I’m currently learning **Terraform & Kubernetes**
 
  📜 My favorite book is **[Name of the Wind](https://www.goodreads.com/book/show/34347493-the-name-of-the-wind)** and I'm currently reading **[Magician](https://www.goodreads.com/book/show/43916.Magician)**
 
